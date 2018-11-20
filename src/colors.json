@@ -1,0 +1,38 @@
+{
+  "Blue": {
+    "light": "#ddffff",
+    "main": "#aae0fa",
+    "dark": "#79aec7",
+    "contrastText": "#000"
+  },
+  "Black": {
+    "light": "#fef5f2",
+    "main": "#cbc2bf",
+    "dark": "#9a928f",
+    "contrastText": "#000"
+  },
+  "White": {
+    "light": "#ffffff",
+    "main": "#fffbd5",
+    "dark": "#ccc8a4",
+    "contrastText": "#000"
+  },
+  "Red": {
+    "light": "#ffdcbf",
+    "main": "#f9aa8f",
+    "dark": "#c47a61",
+    "contrastText": "#000"
+  },
+  "Green": {
+    "light": "#cdffe0",
+    "main": "#9bd3ae",
+    "dark": "#6ba27f",
+    "contrastText": "#000"
+  },
+  "Colorless": {
+    "light": "#fff5f3",
+    "main": "#ccc2c0",
+    "dark": "#9b9290",
+    "contrastText": "#000"
+  }
+}
